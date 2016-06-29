@@ -16,8 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"第一次测试");
-    NSLog(@"第一次上传");
+    NSLog(@"Hello World!");
+    NSLog(@"第二次测试");
 }
 
 - (void)didReceiveMemoryWarning {
