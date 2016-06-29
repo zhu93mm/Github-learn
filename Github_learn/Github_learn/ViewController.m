@@ -16,8 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"尝试返回以前版本");
-    NSLog(@"第三次测试");
+    
 }
 
 - (void)didReceiveMemoryWarning {
